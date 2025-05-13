@@ -28,4 +28,10 @@ export class EmployeeService {
   updateEmpEmployeeList(id: any,empObj:any) {
     return this.http.put(`http://localhost:3000/EmployeeDetails/${id}`,empObj)
   }
+
+  demo(){
+    console.log("Hello");
+  }
+
+
 }
