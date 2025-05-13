@@ -1,0 +1,52 @@
+{
+  "EmployeeDetails": [
+    {
+      "id": "01d1",
+      "fname": "Abhishek",
+      "lname": "Kale",
+      "email": "akale0774@gmail.com",
+      "dob": "2025-01-19T18:30:00.000Z",
+      "gender": "male",
+      "education": "bachelor",
+      "company": "gamma",
+      "experience": 4,
+      "package": 15
+    },
+    {
+      "id": "b56b",
+      "fname": "mohit",
+      "lname": "kale",
+      "email": "akale0774@gmail.com",
+      "dob": "2025-01-21T18:30:00.000Z",
+      "gender": "male",
+      "education": "bachelor",
+      "company": "wskdfj",
+      "experience": 4,
+      "package": 12
+    },
+    {
+      "fname": "vandana",
+      "lname": "kale",
+      "email": "vandana@gmail.com",
+      "dob": "2025-01-06T18:30:00.000Z",
+      "gender": "female",
+      "education": "intermediate",
+      "company": "wipro",
+      "experience": 5,
+      "package": 17,
+      "id": "4e62"
+    },
+    {
+      "fname": "sahebrao",
+      "lname": "kale",
+      "email": "sahebrao@gmail.com",
+      "dob": "2025-01-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "phd",
+      "company": "tcs",
+      "experience": 10,
+      "package": 56,
+      "id": "f5ed"
+    }
+  ]
+}
